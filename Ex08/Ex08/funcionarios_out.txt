@@ -1,0 +1,4 @@
+A:Adrusila Lopes;Rua E n6;6/6/1996;0;900;25051;RecHumanos;
+O:Zeca Estacionancio;Rua A n9;1/1/1985;15;1100;25050;Pintura;nao;
+A:Ana Rola;Rua da esquerda n3;4/2/1990;0;900;25024;Comercial;
+O:Quim Roscas;Rua do centro n7;18/5/1999;10;1000;25022;Embalador;sim;

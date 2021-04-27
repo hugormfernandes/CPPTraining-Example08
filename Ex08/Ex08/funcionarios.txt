@@ -1,0 +1,3 @@
+O:Joca Gaio;20/9/1987;Rua da direita n2;25023;Pintura;1100;20;sim;
+A:Ana Rola;4/2/1990;Rua da esquerda n3;25024;Comercial;900;0;
+O:Quim Roscas;18/5/1999;Rua do centro n7;25022;Embalador;1000;10;sim;
